@@ -107,5 +107,4 @@ https://birds-quiz.netlify.com/ (версия без Extra scope)
 `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=YOUR API KEY&tag_mode=all&extras=url_m&format=json&nojsoncallback&tags=BIRD NAME`
 
 
-### Документ для вопросов
-- форма для вопросов, связанных с выполнением задания: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IUoaNLUcGDlqHqus3wms5b1V4/edit?usp=sharing
+
